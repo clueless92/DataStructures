@@ -1,0 +1,5 @@
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\3. Circular-Queue\CircularQueue\bin\Debug\CircularQueue.exe
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\3. Circular-Queue\CircularQueue\bin\Debug\CircularQueue.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.exe
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\3. Circular-Queue\CircularQueue\obj\Debug\CircularQueue.pdb

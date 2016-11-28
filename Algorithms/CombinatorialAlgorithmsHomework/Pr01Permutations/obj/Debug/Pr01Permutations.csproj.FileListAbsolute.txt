@@ -1,0 +1,12 @@
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\bin\Debug\Pr01Permutations.exe.config
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\bin\Debug\Pr01Permutations.exe
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\bin\Debug\Pr01Permutations.pdb
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\obj\Debug\Pr01Permutations.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\obj\Debug\Pr01Permutations.exe
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\obj\Debug\Pr01Permutations.pdb
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\bin\Debug\Pr01Permutations.exe.config
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\obj\Debug\Pr01Permutations.exe
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\obj\Debug\Pr01Permutations.pdb
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\bin\Debug\Pr01Permutations.exe
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\bin\Debug\Pr01Permutations.pdb
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr01Permutations\obj\Debug\Pr01Permutations.csprojResolveAssemblyReference.cache

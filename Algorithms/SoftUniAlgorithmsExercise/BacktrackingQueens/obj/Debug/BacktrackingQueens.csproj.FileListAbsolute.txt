@@ -1,0 +1,9 @@
+D:\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\bin\Debug\BacktrackingQueens.exe.config
+D:\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\bin\Debug\BacktrackingQueens.exe
+D:\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\bin\Debug\BacktrackingQueens.pdb
+D:\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\obj\Debug\BacktrackingQueens.exe
+D:\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\obj\Debug\BacktrackingQueens.pdb
+D:\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\obj\Debug\BacktrackingQueens.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\bin\Debug\BacktrackingQueens.exe.config
+D:\OneDrive\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\obj\Debug\BacktrackingQueens.exe
+D:\OneDrive\Workspace\C#\SoftUniAlgorithmsExercise\BacktrackingQueens\obj\Debug\BacktrackingQueens.pdb

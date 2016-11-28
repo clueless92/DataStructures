@@ -1,0 +1,12 @@
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\bin\Debug\Pr05PathsBetweenCellsInMatrix.exe.config
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\bin\Debug\Pr05PathsBetweenCellsInMatrix.exe
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\bin\Debug\Pr05PathsBetweenCellsInMatrix.pdb
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\obj\Debug\Pr05PathsBetweenCellsInMatrix.exe
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\obj\Debug\Pr05PathsBetweenCellsInMatrix.pdb
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\obj\Debug\Pr05PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\bin\Debug\Pr05PathsBetweenCellsInMatrix.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\obj\Debug\Pr05PathsBetweenCellsInMatrix.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\obj\Debug\Pr05PathsBetweenCellsInMatrix.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\bin\Debug\Pr05PathsBetweenCellsInMatrix.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\bin\Debug\Pr05PathsBetweenCellsInMatrix.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\obj\Debug\Pr05PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\bin\Debug\FactorialTest.exe.config
+D:\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\obj\Debug\FactorialTest.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\bin\Debug\FactorialTest.exe
+D:\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\bin\Debug\FactorialTest.pdb
+D:\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\obj\Debug\FactorialTest.exe
+D:\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\obj\Debug\FactorialTest.pdb
+D:\OneDrive\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\bin\Debug\FactorialTest.exe.config
+D:\OneDrive\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\obj\Debug\FactorialTest.exe
+D:\OneDrive\Workspace\C#\SoftUniAlgorithmsExercise\FactorialTest\obj\Debug\FactorialTest.pdb

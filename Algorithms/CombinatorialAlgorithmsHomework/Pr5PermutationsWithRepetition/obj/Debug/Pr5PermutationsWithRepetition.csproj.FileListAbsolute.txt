@@ -1,0 +1,12 @@
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\bin\Debug\Pr5PermutationsWithRepetition.exe.config
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\bin\Debug\Pr5PermutationsWithRepetition.exe
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\bin\Debug\Pr5PermutationsWithRepetition.pdb
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\obj\Debug\Pr5PermutationsWithRepetition.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\obj\Debug\Pr5PermutationsWithRepetition.exe
+D:\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\obj\Debug\Pr5PermutationsWithRepetition.pdb
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\bin\Debug\Pr5PermutationsWithRepetition.exe.config
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\obj\Debug\Pr5PermutationsWithRepetition.exe
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\obj\Debug\Pr5PermutationsWithRepetition.pdb
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\bin\Debug\Pr5PermutationsWithRepetition.exe
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\bin\Debug\Pr5PermutationsWithRepetition.pdb
+D:\OneDrive\Workspace\C#\CombinatorialAlgorithmsHomework\Pr5PermutationsWithRepetition\obj\Debug\Pr5PermutationsWithRepetition.csprojResolveAssemblyReference.cache

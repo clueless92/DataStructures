@@ -1,0 +1,3 @@
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\bin\Debug\Pr05PathsBetweenCellsInMatrix.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\obj\Debug\Pr05PathsBetweenCellsInMatrix.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr05PathsBetweenCellsInMatrix\obj\Debug\Pr05PathsBetweenCellsInMatrix.pdb

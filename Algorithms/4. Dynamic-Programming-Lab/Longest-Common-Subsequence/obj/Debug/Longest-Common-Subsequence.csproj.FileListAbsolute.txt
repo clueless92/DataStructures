@@ -1,0 +1,5 @@
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\bin\Debug\Longest-Common-Subsequence.exe.config
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\bin\Debug\Longest-Common-Subsequence.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\bin\Debug\Longest-Common-Subsequence.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\obj\Debug\Longest-Common-Subsequence.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Common-Subsequence\obj\Debug\Longest-Common-Subsequence.pdb

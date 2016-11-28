@@ -1,0 +1,5 @@
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\5. DFS-and-BFS\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.exe
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\5. DFS-and-BFS\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\5. DFS-and-BFS\DFS-Graph-Traversal\obj\Debug\DFS-Graph-Traversal.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\5. DFS-and-BFS\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.exe
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\5. DFS-and-BFS\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.pdb

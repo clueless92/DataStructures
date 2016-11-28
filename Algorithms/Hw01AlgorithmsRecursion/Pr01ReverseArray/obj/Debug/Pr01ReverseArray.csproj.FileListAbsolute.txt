@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr01ReverseArray\bin\Debug\Pr01ReverseArray.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr01ReverseArray\bin\Debug\Pr01ReverseArray.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr01ReverseArray\bin\Debug\Pr01ReverseArray.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr01ReverseArray\obj\Debug\Pr01ReverseArray.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr01ReverseArray\obj\Debug\Pr01ReverseArray.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr01ReverseArray\obj\Debug\Pr01ReverseArray.pdb

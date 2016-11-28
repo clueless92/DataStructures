@@ -1,0 +1,7 @@
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.dll
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.dll
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.pdb

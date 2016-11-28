@@ -1,0 +1,6 @@
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\8. Binary-Heap\BinaryHeap\bin\Debug\BinaryHeap.exe.config
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\8. Binary-Heap\BinaryHeap\bin\Debug\BinaryHeap.exe
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\8. Binary-Heap\BinaryHeap\bin\Debug\BinaryHeap.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.exe
+D:\OneDrive\University\SoftUni OpenCourses\Data Structures\8. Binary-Heap\BinaryHeap\obj\Debug\BinaryHeap.pdb

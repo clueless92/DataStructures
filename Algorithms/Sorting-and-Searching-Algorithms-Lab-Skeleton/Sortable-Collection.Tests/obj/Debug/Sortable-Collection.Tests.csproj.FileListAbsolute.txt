@@ -1,0 +1,14 @@
+D:\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.dll
+D:\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.pdb
+D:\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.exe
+D:\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.pdb
+D:\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.dll
+D:\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.pdb
+D:\OneDrive\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.dll
+D:\OneDrive\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.dll
+D:\OneDrive\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.pdb
+D:\OneDrive\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.exe
+D:\OneDrive\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.pdb
+D:\OneDrive\Workspace\C#\Sorting-and-Searching-Algorithms-Lab-Skeleton\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.pdb

@@ -1,0 +1,1 @@
+D:\Workspace\C#\SoftUniAlgorithmsExercise\VariationsWithoutRepetition\bin\Debug\VariationsWithoutRepetition.exe.config

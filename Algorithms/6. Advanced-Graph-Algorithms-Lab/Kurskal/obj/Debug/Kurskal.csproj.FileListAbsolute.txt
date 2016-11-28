@@ -1,0 +1,15 @@
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe.config
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.exe
+G:\SoftUni\SoftUni Work\Algorithms\AdvancedGraphLab\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.pdb
+C:\Users\tilchev\Desktop\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe.config
+C:\Users\tilchev\Desktop\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.exe
+C:\Users\tilchev\Desktop\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.pdb
+C:\Users\tilchev\Desktop\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.csprojResolveAssemblyReference.cache
+C:\Users\tilchev\Desktop\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe
+C:\Users\tilchev\Desktop\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\bin\Debug\Kurskal.exe.config
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Kurskal\obj\Debug\Kurskal.pdb

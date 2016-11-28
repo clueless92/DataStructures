@@ -1,0 +1,2 @@
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr06ConnectedAreasInAMatrix\bin\Debug\Pr06ConnectedAreasInAMatrix.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr06ConnectedAreasInAMatrix\bin\Debug\Pr06ConnectedAreasInAMatrix.exe.config

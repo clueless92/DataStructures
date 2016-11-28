@@ -1,0 +1,10 @@
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\bin\Debug\Pr01ExtendCableNetwork.exe.config
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\bin\Debug\Pr01ExtendCableNetwork.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\bin\Debug\Pr01ExtendCableNetwork.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\bin\Debug\Dijkstra.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\bin\Debug\Kurskal.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\bin\Debug\Dijkstra.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\bin\Debug\Kurskal.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\obj\Debug\Pr01ExtendCableNetwork.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\obj\Debug\Pr01ExtendCableNetwork.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\6. Advanced-Graph-Algorithms-Lab\Pr01ExtendCableNetwork\obj\Debug\Pr01ExtendCableNetwork.pdb

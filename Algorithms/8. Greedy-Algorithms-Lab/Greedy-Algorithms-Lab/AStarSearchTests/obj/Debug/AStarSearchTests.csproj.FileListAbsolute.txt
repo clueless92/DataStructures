@@ -1,0 +1,15 @@
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\AStarSearchTests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\AStarSearchTests.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\AStarAlgorithm.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\AStarAlgorithm.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\obj\Debug\AStarSearchTests.csprojResolveAssemblyReference.cache
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\obj\Debug\AStarSearchTests.dll
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\obj\Debug\AStarSearchTests.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\AStarSearchTests.dll
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\AStarSearchTests.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\AStarAlgorithm.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\bin\Debug\AStarAlgorithm.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\obj\Debug\AStarSearchTests.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\obj\Debug\AStarSearchTests.dll
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\AStarSearchTests\obj\Debug\AStarSearchTests.pdb

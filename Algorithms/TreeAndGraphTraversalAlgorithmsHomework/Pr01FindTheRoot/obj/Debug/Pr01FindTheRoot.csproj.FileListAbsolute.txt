@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr01FindTheRoot\bin\Debug\Pr01FindTheRoot.exe.config
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr01FindTheRoot\bin\Debug\Pr01FindTheRoot.exe
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr01FindTheRoot\bin\Debug\Pr01FindTheRoot.pdb
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr01FindTheRoot\obj\Debug\Pr01FindTheRoot.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr01FindTheRoot\obj\Debug\Pr01FindTheRoot.exe
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr01FindTheRoot\obj\Debug\Pr01FindTheRoot.pdb

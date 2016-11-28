@@ -1,0 +1,5 @@
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr04CombinationsWithoutRepetition\bin\Debug\Pr04CombinationsWithoutRepetition.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr04CombinationsWithoutRepetition\obj\Debug\Pr04CombinationsWithoutRepetition.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr04CombinationsWithoutRepetition\obj\Debug\Pr04CombinationsWithoutRepetition.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr04CombinationsWithoutRepetition\bin\Debug\Pr04CombinationsWithoutRepetition.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr04CombinationsWithoutRepetition\bin\Debug\Pr04CombinationsWithoutRepetition.pdb

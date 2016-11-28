@@ -1,0 +1,9 @@
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\bin\Debug\Pr02NestedLoopsToRecursion.exe.config
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\bin\Debug\Pr02NestedLoopsToRecursion.exe
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\bin\Debug\Pr02NestedLoopsToRecursion.pdb
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\obj\Debug\Pr02NestedLoopsToRecursion.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\obj\Debug\Pr02NestedLoopsToRecursion.exe
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\obj\Debug\Pr02NestedLoopsToRecursion.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\bin\Debug\Pr02NestedLoopsToRecursion.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\obj\Debug\Pr02NestedLoopsToRecursion.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr02NestedLoopsToRecursion\obj\Debug\Pr02NestedLoopsToRecursion.pdb

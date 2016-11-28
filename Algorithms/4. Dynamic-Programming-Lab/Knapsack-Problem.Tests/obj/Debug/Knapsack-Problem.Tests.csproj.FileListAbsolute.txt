@@ -1,0 +1,7 @@
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.dll
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.csprojResolveAssemblyReference.cache
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.dll
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\4. Dynamic-Programming-Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.pdb

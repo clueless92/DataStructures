@@ -1,0 +1,6 @@
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Hw01AlgorithmsRecursion\bin\Debug\Hw01AlgorithmsRecursion.exe.config
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Hw01AlgorithmsRecursion\obj\Debug\Hw01AlgorithmsRecursion.exe
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Hw01AlgorithmsRecursion\obj\Debug\Hw01AlgorithmsRecursion.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Hw01AlgorithmsRecursion\bin\Debug\Hw01AlgorithmsRecursion.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Hw01AlgorithmsRecursion\obj\Debug\Hw01AlgorithmsRecursion.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Hw01AlgorithmsRecursion\obj\Debug\Hw01AlgorithmsRecursion.pdb

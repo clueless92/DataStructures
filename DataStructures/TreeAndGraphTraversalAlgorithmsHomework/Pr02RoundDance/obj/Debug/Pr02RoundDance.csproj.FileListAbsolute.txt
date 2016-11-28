@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr02RoundDance\bin\Debug\Pr02RoundDance.exe.config
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr02RoundDance\bin\Debug\Pr02RoundDance.exe
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr02RoundDance\bin\Debug\Pr02RoundDance.pdb
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr02RoundDance\obj\Debug\Pr02RoundDance.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr02RoundDance\obj\Debug\Pr02RoundDance.exe
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr02RoundDance\obj\Debug\Pr02RoundDance.pdb

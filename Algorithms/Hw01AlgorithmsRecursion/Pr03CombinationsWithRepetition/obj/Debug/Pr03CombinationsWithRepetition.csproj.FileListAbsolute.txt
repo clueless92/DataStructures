@@ -1,0 +1,12 @@
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\bin\Debug\Pr03CombinationsWithRepetition.exe.config
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\bin\Debug\Pr03CombinationsWithRepetition.exe
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\bin\Debug\Pr03CombinationsWithRepetition.pdb
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\obj\Debug\Pr03CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\obj\Debug\Pr03CombinationsWithRepetition.exe
+D:\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\obj\Debug\Pr03CombinationsWithRepetition.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\bin\Debug\Pr03CombinationsWithRepetition.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\obj\Debug\Pr03CombinationsWithRepetition.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\obj\Debug\Pr03CombinationsWithRepetition.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\bin\Debug\Pr03CombinationsWithRepetition.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\bin\Debug\Pr03CombinationsWithRepetition.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr03CombinationsWithRepetition\obj\Debug\Pr03CombinationsWithRepetition.csprojResolveAssemblyReference.cache

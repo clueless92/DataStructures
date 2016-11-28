@@ -1,0 +1,10 @@
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe.config
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.pdb
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.exe
+G:\SoftUni\SoftUni Work\Algorithms\AStarSearchLab\7. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe.config
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\bin\Debug\SetCover.pdb
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.exe
+D:\OneDrive\University\SoftUni OpenCourses\Algorithms\8. Greedy-Algorithms-Lab\Greedy-Algorithms-Lab\SetCover\obj\Debug\SetCover.pdb

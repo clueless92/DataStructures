@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr03RideTheHorse\bin\Debug\Pr03RideTheHorse.exe.config
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr03RideTheHorse\bin\Debug\Pr03RideTheHorse.exe
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr03RideTheHorse\bin\Debug\Pr03RideTheHorse.pdb
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr03RideTheHorse\obj\Debug\Pr03RideTheHorse.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr03RideTheHorse\obj\Debug\Pr03RideTheHorse.exe
+D:\OneDrive\Workspace\C#\TreeAndGraphTraversalAlgorithmsHomework\Pr03RideTheHorse\obj\Debug\Pr03RideTheHorse.pdb

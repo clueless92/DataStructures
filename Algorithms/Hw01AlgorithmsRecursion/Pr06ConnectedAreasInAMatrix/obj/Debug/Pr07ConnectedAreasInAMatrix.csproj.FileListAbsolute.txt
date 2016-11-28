@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr06ConnectedAreasInAMatrix\bin\Debug\Pr06ConnectedAreasInAMatrix.exe.config
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr06ConnectedAreasInAMatrix\bin\Debug\Pr06ConnectedAreasInAMatrix.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr06ConnectedAreasInAMatrix\bin\Debug\Pr06ConnectedAreasInAMatrix.pdb
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr06ConnectedAreasInAMatrix\obj\Debug\Pr07ConnectedAreasInAMatrix.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr06ConnectedAreasInAMatrix\obj\Debug\Pr06ConnectedAreasInAMatrix.exe
+D:\OneDrive\Workspace\C#\Hw01AlgorithmsRecursion\Pr06ConnectedAreasInAMatrix\obj\Debug\Pr06ConnectedAreasInAMatrix.pdb
