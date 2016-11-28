@@ -1,2 +1,2 @@
 # DataStructures
-Homeworks, exams and other projects from the Data Structures course at SoftUni.
+Homeworks, exams and other projects from the Data Structures and Algorithms courses at SoftUni.
