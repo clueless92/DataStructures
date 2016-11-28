@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr0RemoveOddOccurences\bin\Debug\Pr0RemoveOddOccurences.exe.config
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr0RemoveOddOccurences\bin\Debug\Pr0RemoveOddOccurences.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr0RemoveOddOccurences\bin\Debug\Pr0RemoveOddOccurences.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr0RemoveOddOccurences\obj\Debug\Pr0RemoveOddOccurences.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr0RemoveOddOccurences\obj\Debug\Pr0RemoveOddOccurences.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr0RemoveOddOccurences\obj\Debug\Pr0RemoveOddOccurences.pdb

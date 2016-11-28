@@ -1,0 +1,5 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr05LinkedStack\bin\Debug\Pr05LinkedStack.dll.config
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr05LinkedStack\bin\Debug\Pr05LinkedStack.dll
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr05LinkedStack\bin\Debug\Pr05LinkedStack.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr05LinkedStack\obj\Debug\Pr05LinkedStack.dll
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr05LinkedStack\obj\Debug\Pr05LinkedStack.pdb

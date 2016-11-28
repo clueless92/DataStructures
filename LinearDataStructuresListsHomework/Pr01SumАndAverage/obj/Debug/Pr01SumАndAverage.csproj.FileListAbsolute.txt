@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr01SumАndAverage\bin\Debug\Pr01SumАndAverage.exe.config
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr01SumАndAverage\bin\Debug\Pr01SumАndAverage.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr01SumАndAverage\bin\Debug\Pr01SumАndAverage.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr01SumАndAverage\obj\Debug\Pr01SumАndAverage.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr01SumАndAverage\obj\Debug\Pr01SumАndAverage.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr01SumАndAverage\obj\Debug\Pr01SumАndAverage.pdb

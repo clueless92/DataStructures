@@ -1,0 +1,5 @@
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr02ImplementBiDictionary\bin\Debug\Pr02ImplementBiDictionary.exe.config
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr02ImplementBiDictionary\bin\Debug\Pr02ImplementBiDictionary.exe
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr02ImplementBiDictionary\bin\Debug\Pr02ImplementBiDictionary.pdb
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr02ImplementBiDictionary\obj\Debug\Pr02ImplementBiDictionary.exe
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr02ImplementBiDictionary\obj\Debug\Pr02ImplementBiDictionary.pdb

@@ -1,0 +1,7 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr04ArrayBasedStackUnitTests\bin\Debug\Pr04ArrayBasedStackUnitTests.dll
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr04ArrayBasedStackUnitTests\bin\Debug\Pr04ArrayBasedStackUnitTests.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr04ArrayBasedStackUnitTests\bin\Debug\Pr03ImplementArrayBasedStack.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr04ArrayBasedStackUnitTests\obj\Debug\Pr04ArrayBasedStackUnitTests.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr04ArrayBasedStackUnitTests\obj\Debug\Pr04ArrayBasedStackUnitTests.dll
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr04ArrayBasedStackUnitTests\obj\Debug\Pr04ArrayBasedStackUnitTests.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr04ArrayBasedStackUnitTests\bin\Debug\Pr03ImplementArrayBasedStack.dll

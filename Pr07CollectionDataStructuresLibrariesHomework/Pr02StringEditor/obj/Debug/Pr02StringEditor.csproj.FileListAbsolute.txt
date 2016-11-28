@@ -1,0 +1,8 @@
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr02StringEditor\bin\Debug\Pr02StringEditor.exe.config
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr02StringEditor\bin\Debug\Pr02StringEditor.exe
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr02StringEditor\bin\Debug\Pr02StringEditor.pdb
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr02StringEditor\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr02StringEditor\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr02StringEditor\obj\Debug\Pr02StringEditor.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr02StringEditor\obj\Debug\Pr02StringEditor.exe
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr02StringEditor\obj\Debug\Pr02StringEditor.pdb

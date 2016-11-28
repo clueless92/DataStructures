@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr01PlayWithTrees", "Pr01PlayWithTrees\Pr01PlayWithTrees.csproj", "{A6C90241-5780-46DC-85DB-A4A521117E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr02TraverseAndSaveDirectoryContentsInTree", "Pr02TraverseAndSaveDirectoryContentsInTree\Pr02TraverseAndSaveDirectoryContentsInTree.csproj", "{63FC579E-A4A6-48C2-A00E-9EF8B5D750AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C90241-5780-46DC-85DB-A4A521117E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C90241-5780-46DC-85DB-A4A521117E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C90241-5780-46DC-85DB-A4A521117E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C90241-5780-46DC-85DB-A4A521117E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FC579E-A4A6-48C2-A00E-9EF8B5D750AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FC579E-A4A6-48C2-A00E-9EF8B5D750AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FC579E-A4A6-48C2-A00E-9EF8B5D750AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FC579E-A4A6-48C2-A00E-9EF8B5D750AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

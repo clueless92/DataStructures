@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr07ImplementALinkedList\bin\Debug\Pr07ImplementALinkedList.exe.config
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr07ImplementALinkedList\obj\Debug\Pr07ImplementALinkedList.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr07ImplementALinkedList\bin\Debug\Pr07ImplementALinkedList.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr07ImplementALinkedList\bin\Debug\Pr07ImplementALinkedList.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr07ImplementALinkedList\obj\Debug\Pr07ImplementALinkedList.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr07ImplementALinkedList\obj\Debug\Pr07ImplementALinkedList.pdb

@@ -1,0 +1,8 @@
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr03CollectionOfProducts\bin\Debug\Pr03CollectionOfProducts.exe.config
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr03CollectionOfProducts\bin\Debug\Pr03CollectionOfProducts.exe
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr03CollectionOfProducts\bin\Debug\Pr03CollectionOfProducts.pdb
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr03CollectionOfProducts\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr03CollectionOfProducts\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr03CollectionOfProducts\obj\Debug\Pr03CollectionOfProducts.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr03CollectionOfProducts\obj\Debug\Pr03CollectionOfProducts.exe
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr03CollectionOfProducts\obj\Debug\Pr03CollectionOfProducts.pdb

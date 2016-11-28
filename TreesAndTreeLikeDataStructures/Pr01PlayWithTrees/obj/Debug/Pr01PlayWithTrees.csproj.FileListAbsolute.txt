@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\TreesAndTreeLikeDataStructures\Pr01PlayWithTrees\bin\Debug\Pr01PlayWithTrees.exe.config
+D:\OneDrive\Workspace\C#\TreesAndTreeLikeDataStructures\Pr01PlayWithTrees\bin\Debug\Pr01PlayWithTrees.exe
+D:\OneDrive\Workspace\C#\TreesAndTreeLikeDataStructures\Pr01PlayWithTrees\bin\Debug\Pr01PlayWithTrees.pdb
+D:\OneDrive\Workspace\C#\TreesAndTreeLikeDataStructures\Pr01PlayWithTrees\obj\Debug\Pr01PlayWithTrees.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\TreesAndTreeLikeDataStructures\Pr01PlayWithTrees\obj\Debug\Pr01PlayWithTrees.exe
+D:\OneDrive\Workspace\C#\TreesAndTreeLikeDataStructures\Pr01PlayWithTrees\obj\Debug\Pr01PlayWithTrees.pdb

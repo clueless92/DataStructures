@@ -1,0 +1,7 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr06LinkedStackUnitTests\obj\Debug\Pr06LinkedStackUnitTests.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr06LinkedStackUnitTests\bin\Debug\Pr06LinkedStackUnitTests.dll
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr06LinkedStackUnitTests\bin\Debug\Pr06LinkedStackUnitTests.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr06LinkedStackUnitTests\bin\Debug\Pr05LinkedStack.dll
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr06LinkedStackUnitTests\bin\Debug\Pr05LinkedStack.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr06LinkedStackUnitTests\obj\Debug\Pr06LinkedStackUnitTests.dll
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr06LinkedStackUnitTests\obj\Debug\Pr06LinkedStackUnitTests.pdb

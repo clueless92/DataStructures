@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr05CountOfOccurrences\bin\Debug\Pr05CountOfOccurrences.exe.config
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr05CountOfOccurrences\bin\Debug\Pr05CountOfOccurrences.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr05CountOfOccurrences\bin\Debug\Pr05CountOfOccurrences.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr05CountOfOccurrences\obj\Debug\Pr05CountOfOccurrences.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr05CountOfOccurrences\obj\Debug\Pr05CountOfOccurrences.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr05CountOfOccurrences\obj\Debug\Pr05CountOfOccurrences.pdb

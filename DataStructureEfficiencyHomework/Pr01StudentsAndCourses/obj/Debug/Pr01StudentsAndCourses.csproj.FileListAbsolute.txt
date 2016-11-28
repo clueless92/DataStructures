@@ -1,0 +1,9 @@
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\bin\Debug\Pr01StudentsAndCourses.exe.config
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\bin\Debug\Pr01StudentsAndCourses.exe
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\bin\Debug\Pr01StudentsAndCourses.pdb
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\obj\Debug\Pr01StudentsAndCourses.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\obj\Debug\Pr01StudentsAndCourses.exe
+D:\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\obj\Debug\Pr01StudentsAndCourses.pdb
+D:\OneDrive\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\bin\Debug\Pr01StudentsAndCourses.exe.config
+D:\OneDrive\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\obj\Debug\Pr01StudentsAndCourses.exe
+D:\OneDrive\Workspace\C#\DataStructureEfficiencyHomework\Pr01StudentsAndCourses\obj\Debug\Pr01StudentsAndCourses.pdb

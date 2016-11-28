@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr03ImplementArrayBasedStack\bin\Debug\Pr03ImplementArrayBasedStack.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr03ImplementArrayBasedStack\obj\Debug\Pr03ImplementArrayBasedStack.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr03ImplementArrayBasedStack\obj\Debug\Pr03ImplementArrayBasedStack.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr03ImplementArrayBasedStack\bin\Debug\Pr03ImplementArrayBasedStack.dll.config
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr03ImplementArrayBasedStack\bin\Debug\Pr03ImplementArrayBasedStack.dll
+D:\OneDrive\Workspace\C#\LinearDataStructuresStacksAndQueues\Pr03ImplementArrayBasedStack\obj\Debug\Pr03ImplementArrayBasedStack.dll

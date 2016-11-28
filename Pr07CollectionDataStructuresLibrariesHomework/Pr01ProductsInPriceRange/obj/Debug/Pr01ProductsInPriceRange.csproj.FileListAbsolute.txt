@@ -1,0 +1,8 @@
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr01ProductsInPriceRange\bin\Debug\Pr01ProductsInPriceRange.exe.config
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr01ProductsInPriceRange\bin\Debug\Pr01ProductsInPriceRange.exe
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr01ProductsInPriceRange\bin\Debug\Pr01ProductsInPriceRange.pdb
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr01ProductsInPriceRange\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr01ProductsInPriceRange\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr01ProductsInPriceRange\obj\Debug\Pr01ProductsInPriceRange.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr01ProductsInPriceRange\obj\Debug\Pr01ProductsInPriceRange.exe
+D:\OneDrive\Workspace\C#\Pr07CollectionDataStructuresLibrariesHomework\Pr01ProductsInPriceRange\obj\Debug\Pr01ProductsInPriceRange.pdb

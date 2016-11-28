@@ -1,0 +1,6 @@
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr03LongestSubsequence\bin\Debug\Pr03LongestSubsequence.exe.config
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr03LongestSubsequence\bin\Debug\Pr03LongestSubsequence.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr03LongestSubsequence\bin\Debug\Pr03LongestSubsequence.pdb
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr03LongestSubsequence\obj\Debug\Pr03LongestSubsequence.csprojResolveAssemblyReference.cache
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr03LongestSubsequence\obj\Debug\Pr03LongestSubsequence.exe
+D:\OneDrive\Workspace\C#\LinearDataStructuresListsHomework\Pr03LongestSubsequence\obj\Debug\Pr03LongestSubsequence.pdb
